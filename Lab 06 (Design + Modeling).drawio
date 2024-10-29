@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Страница — 1" id="d7dE3nXRnZuCts239t4J">
-    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="194" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,15 @@
         </mxCell>
         <mxCell id="-NOwzsHI_rVSteIMVQ-0-3" value="COURSE  " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="635" y="300" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-NOwzsHI_rVSteIMVQ-0-5" value="&lt;h3 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;ID&lt;br&gt;&lt;b style=&quot;background-color: initial; font-size: 6px;&quot;&gt;Name&lt;br&gt;&lt;/b&gt;&lt;b&gt;Email&lt;br&gt;&lt;/b&gt;&lt;b&gt;Major&lt;br&gt;Adress&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="348" y="350" width="131" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="-NOwzsHI_rVSteIMVQ-0-6" value="&lt;h3 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;ID&lt;br&gt;&lt;b style=&quot;background-color: initial; font-size: 6px;&quot;&gt;Name&lt;br&gt;&lt;/b&gt;&lt;b&gt;Email&lt;br&gt;&lt;/b&gt;&lt;b&gt;Rank&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="352.5" width="131" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="-NOwzsHI_rVSteIMVQ-0-7" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ID&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Description&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NofCredit Hours&lt;/span&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="599.5" y="352.5" width="131" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
