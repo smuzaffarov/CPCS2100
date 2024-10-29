@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Страница — 1" id="d7dE3nXRnZuCts239t4J">
-    <mxGraphModel dx="1193" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1426" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="-NOwzsHI_rVSteIMVQ-0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NOwzsHI_rVSteIMVQ-0-14" target="-NOwzsHI_rVSteIMVQ-0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NOwzsHI_rVSteIMVQ-0-6" value="&lt;h3 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;ID - 1:1&lt;br&gt;&lt;b style=&quot;background-color: initial; font-size: 6px;&quot;&gt;Name - 1:1&lt;br&gt;&lt;/b&gt;&lt;b&gt;Email - 1:1&lt;br&gt;&lt;/b&gt;&lt;b&gt;Rank - None&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-NOwzsHI_rVSteIMVQ-0-6" value="&lt;h3 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;ID - 1:1&lt;br&gt;&lt;b style=&quot;background-color: initial; font-size: 6px;&quot;&gt;Name - 1:1&lt;br&gt;&lt;/b&gt;&lt;b&gt;Email - 1:1&lt;br&gt;&lt;/b&gt;&lt;b&gt;Rank - 1:M&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="352.5" width="131" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-NOwzsHI_rVSteIMVQ-0-7" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ID&amp;nbsp;- 1:1&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Description&amp;nbsp;- M:1&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NofCreditHours - None&lt;/span&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
